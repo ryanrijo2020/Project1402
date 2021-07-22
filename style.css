@@ -1,0 +1,24 @@
+.heading {
+    width:100%;
+text-align: left;
+
+}
+.heading h1 {
+    display: inline ;
+}
+.heading button {
+    float: right;
+    border: 1px solid white;
+ }
+ .footer {
+    width:100%;    
+background-color: grey;
+position:fixed;
+bottom:0;
+line-height: 2;
+color: white;
+text-align: center;
+}
+canvas{
+    
+}
